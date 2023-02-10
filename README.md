@@ -6,8 +6,6 @@
 2. Decision Tree
 3. Logistic Regression
 
-### Success Rate is 99.34%.
-
 ### Additional Libraries Used:
 
 * pefile
